@@ -20,6 +20,8 @@ The project leverages Looker Studio to analyze eCommerce data, focusing on key p
 4. **Discount Strategy:** It provides insights into the negative correlation between discounts and AOV, suggesting the need for more targeted discounting strategies.
 5. **Seasonal Trends:** The analysis reveals strong seasonal performance, particularly in Q4, but highlights a sharp decline in 2025, raising concerns about customer attrition or external macroeconomic factors.
 
+### Dashboard Link: 
+https://lookerstudio.google.com/reporting/61ad4d20-c9e4-4808-8b94-62cc1617b3e2
 
 ### Project Video:
 [![eCommerce Analytics Dashboard](https://github.com/user-attachments/assets/34668743-cb9c-46c2-bf42-7361a8e800ea)](https://github.com/user-attachments/assets/035247f9-ba6e-46fc-be5d-b5f56f241f93)
